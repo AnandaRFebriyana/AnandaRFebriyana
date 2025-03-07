@@ -1,7 +1,7 @@
 ## Hi👋 I'm Nandaaa! 
 
 ## About Me :  
-I am a Full Stack Developer 🏴‍☠️ from Indonesia.  
+I am a Software Developer 🏴‍☠️ from Indonesia.  
 
 - ⚒️ I'm working as a Software Engineer and contributing to frontend and backend for building web applications.  
 - 🏆 Exploring Web Development.  
